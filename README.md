@@ -1,1 +1,1 @@
-# Duke
+This is a work area for the Java courses through Coursear/Duke.
